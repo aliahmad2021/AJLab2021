@@ -34,16 +34,16 @@ public class HomeScreen extends Application {
         primaryStage.setTitle("Home Screen");
         
         
-      InputStream stream1 = new FileInputStream("img/slide0.jpg");
-      InputStream stream2 = new FileInputStream("img/slide1.jpg");
-      InputStream stream3 = new FileInputStream("img/slide2.jpg");
-      InputStream stream4 = new FileInputStream("img/slide3.jpg");
-      InputStream stream5 = new FileInputStream("img/slide4.jpg");
-      InputStream stream6 = new FileInputStream("img/slide5.jpg");
-      InputStream stream7 = new FileInputStream("img/slide6.jpg");
-      InputStream stream8 = new FileInputStream("img/slide7.jpg");
-      InputStream stream9 = new FileInputStream("img/slide8.jpg");
-      InputStream stream10 = new FileInputStream("img/slide9.jpg");
+      InputStream stream1 = new FileInputStream("C:\\Users\\Ali\\Documents\\NetBeansProjects\\AJLab2021\\src\\Assignment3\\slide0.jpg");
+      InputStream stream2 = new FileInputStream("C:\\Users\\Ali\\Documents\\NetBeansProjects\\AJLab2021\\src\\Assignment3\\slide1.jpg");
+      InputStream stream3 = new FileInputStream("C:\\Users\\Ali\\Documents\\NetBeansProjects\\AJLab2021\\src\\Assignment3\\slide2.jpg");
+      InputStream stream4 = new FileInputStream("C:\\Users\\Ali\\Documents\\NetBeansProjects\\AJLab2021\\src\\Assignment3\\slide3.jpg");
+      InputStream stream5 = new FileInputStream("C:\\Users\\Ali\\Documents\\NetBeansProjects\\AJLab2021\\src\\Assignment3\\slide4.jpg");
+      InputStream stream6 = new FileInputStream("C:\\Users\\Ali\\Documents\\NetBeansProjects\\AJLab2021\\src\\Assignment3\\slide5.jpg");
+      InputStream stream7 = new FileInputStream("C:\\Users\\Ali\\Documents\\NetBeansProjects\\AJLab2021\\src\\Assignment3\\slide6.jpg");
+      InputStream stream8 = new FileInputStream("C:\\Users\\Ali\\Documents\\NetBeansProjects\\AJLab2021\\src\\Assignment3\\slide7.jpg");
+      InputStream stream9 = new FileInputStream("C:\\Users\\Ali\\Documents\\NetBeansProjects\\AJLab2021\\src\\Assignment3\\slide8.jpg");
+      InputStream stream10 = new FileInputStream("C:\\Users\\Ali\\Documents\\NetBeansProjects\\AJLab2021\\src\\Assignment3\\slide9.jpg");
       Image image1 = new Image(stream1);
       Image image2 = new Image(stream2);
       Image image3 = new Image(stream3);
