@@ -20,12 +20,15 @@ import javafx.event.EventHandler;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.control.*;
-
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.stage.Stage;
 import javafx.stage.Window;
 import javax.swing.JOptionPane;
+/**
+ *
+ * @author Ali
+ */
 public class Login extends Application {
 private GridPane grid;
     public static void main(String[] args) {
